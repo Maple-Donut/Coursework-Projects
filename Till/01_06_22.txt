@@ -1,0 +1,112 @@
+Order 0:
+cordial
+cordial
+muffin
+meal
+£4.5
+
+Order 1:
+latte
+latte
+teacake/crumpet
+teacake/crumpet
+£6.0
+
+Order 2:
+tea/coffee
+tea/coffee
+lemonapplecake
+muffin
+£4.5
+
+Order 3:
+tea/coffee
+muffin
+cordial
+£3.0
+
+Order 4:
+tea/coffee
+teacake/crumpet
+teacake/crumpet
+tea/coffee
+latte
+tea/coffee
+£7.0
+
+Order 5:
+tea/coffee
+tea/coffee
+tea/coffee
+tea/coffee
+£4.0
+
+Order 6:
+tea/coffee
+tea/coffee
+scone cream
+muffin
+Vsponge
+crisp
+crisp
+tea/coffee
+cordial
+cordial
+lux_hot
+lux_hot_choc
+tea/coffee
+£15.1
+
+Order 7:
+can
+can
+£1.5
+
+Order 8:
+hot choc
+hot choc
+tea/coffee
+teacake/crumpet
+teacake/crumpet
+teacake/crumpet
+crisp
+lux_hot_choc
+can
+muffin
+muffin
+crisp
+crisp
+£13.650000000000002
+
+Order 9:
+tea/coffee
+tea/coffee
+scone butter
+scone butter
+null
+lemonapplecake
+lemonapplecake
+£6.0
+
+Order 10:
+tea/coffee
+latte
+tea/coffee
+tea/coffee
+toast
+teacake/crumpet
+teacake/crumpet
+teacake/crumpet
+£9.0
+
+Order 11:
+tea/coffee
+muffin
+half_toast
+hot_choc_lux
+crisp
+can
+£6.55
+
+
+full total: 80.80

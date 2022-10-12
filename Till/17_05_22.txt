@@ -1,0 +1,46 @@
+Order 1:tea/coffee
+cappuccino
+latte
+£4.5
+Order 2:toast
+teacake/crumpet
+Vsponge
+£4.5
+Order 3:meal
+meal+1
+meal+2
+£7.5
+test
+
+test
+
+test
+
+test
+
+test
+
+test
+
+test
+
+test
+
+test
+
+test
+
+test
+
+test
+
+test
+
+test
+
+test
+
+test
+
+
+full total: 16.50

@@ -1,0 +1,2 @@
+module Coursework_2 {
+}

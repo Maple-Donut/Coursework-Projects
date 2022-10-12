@@ -1,0 +1,73 @@
+Order 0:
+cordial
+cordial
+meal
+£3.00
+
+Order 1:
+latte
+tea/coffee
+scone butter
+scone cream
+latte
+£7.50
+
+Order 2:
+latte
+crisp
+Vsponge
+can
+crisp
+£4.85
+
+Order 3:
+raisins
+raisins
+£0.40
+
+Order 4:
+meal+1
+latte
+meal
+tea/coffee
+Vsponge
+£9.00
+
+Order 5:
+toastcheesehalf
+tea/coffee
+tea/coffee
+tea/coffee
+foccacia
+meal
+£9.50
+
+Order 6:
+meal
+muffin
+meal
+tea/coffee
+cordial
+£7.00
+
+Order 7:
+Vsponge
+raisins
+£1.70
+
+Order 8:
+tea/coffee
+meal+3
+£4.50
+
+Order 9:
+tea/coffee
+meal+1
+£3.50
+
+Order 10:
+muffin
+£1.50
+
+
+full total: £52.45

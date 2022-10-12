@@ -1,0 +1,193 @@
+Order 0:
+tea/coffee
+tea/coffee
+£2.0
+
+Order 1:
+cordial
+cordial
+meal
+£3.0
+
+Order 2:
+tea/coffee
+latte
+Vsponge
+£4.5
+
+Order 4:
+tea/coffee
+£1.0
+
+Order 5:
+tea/coffee
+tea/coffee
+caffetierre
+tea/coffee
+£5.0
+
+Order 6:
+tea/coffee
+cordial
+muffin
+£3.0
+
+Order 7:
+latte
+£2.0
+
+Order 8:
+latte
+£2.0
+
+Order 9:
+tea/coffee
+£1.0
+
+Order 10:
+tea/coffee
+tea/coffee
+tea/coffee
+£3.0
+
+Order 11:
+big_caff
+teacake/crumpet
+£4.5
+
+Order 12:
+sml_muffin
+sml_muffin
+can
+£2.75
+
+Order 13:
+tea/coffee
+can
+lemonapplecake
+sml_muffin
+
+13.1:
+can
+can
+
+13.2:
+milk
+tea/coffee
+
+13.3:
+cappuccino
+cappuccino
+scone cream
+scone cream
+£12.75
+
+Order 15:
+tea/coffee
+sml_muffin
+£2.0
+
+Order 16:
+cordial
+can
+scone cream
+latte
+madeira
+sml_muffin
+£7.25
+
+Order 17:
+cappuccino
+scone cream
+£3.0
+
+Order 18:
+Vsponge
+Vsponge
+cappuccino
+cappuccino
+£6.0
+
+Order 19:
+cappuccino
+cordial
+scone butter
+Vsponge
+£4.5
+
+Order 20:
+tea/coffee
+teacake/crumpet
+£2.0
+
+Order 21:
+tea/coffee
+tea/coffee
+£2.0
+
+Order 22:
+muffin
+can
+£2.25
+
+Order 23:
+tea/coffee
+tea/coffee
+scone cream
+lemonapplecake
+lemonapplecake
+lemonapplecake
+£6.5
+
+Order 24:
+teacake/crumpet
+velvet
+tea/coffee
+cappuccino
+£5.0
+
+Order 25:
+velvet
+velvet
+muffin
+can
+can
+latte
+£8.0
+
+Order 26:
+latte
+latte
+latte
+latte
+latte
+syrupx2
+carrotcake
+scone cream
+teacake/crumpet
+tea/coffee
+latte
+scone butter
+£18.5
+
+Order 27:
+tea/coffee
+muffin
+sml_muffin
+scone butter
+£4.5
+
+Order 28:
+madiera
+madiera
+carrotcake
+muffin
+red_velvet
+£7.5
+
+Order 29:
+latte
+£2.0
+
+
+full total: 129.00

@@ -1,0 +1,77 @@
+Order 1:
+cordial
+cordial
+meal
+£3.00
+
+Order 2:
+latte
+biscuit
+biscuit
+£3.00
+
+Order 3:
+Vsponge
+Vsponge
+£3.00
+
+Order 4:
+tea/coffee
+tea/coffee
+tea/coffee
+latte
+hot choc
+ssgbcnegg
+foccacia
+foccacia
+foccacia
+meal
+tea/coffee
+can
+can
+water
+water
+£24.50
+
+Order 5:
+latte
+latte
+Vsponge
+£5.50
+
+Order 6:
+mocha
+scone cream
+£5.00
+
+Order 7:
+tea/coffee
+scone butter
+tea/coffee
+cheesetoast1
+meal
+tea/coffee
+latte
+tea/coffee
+scone
+£11.50
+
+Order 8:
+tea/coffee
+meal+1
+£3.50
+
+Order 9:
+tea/coffee
+tea/coffee
+meal
+teacake/crumpet
+tunnock
+scone
+£6.50
+
+Order 10:
+tea/coffee
+£1.00
+
+full total: £66.50
